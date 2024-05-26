@@ -1,5 +1,5 @@
 > [!NOTE]
-> 
+### Открыть [Бота Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dhamster_kombat_boT%26appname%3Dstart%26startapp%3DkentId316885075) и запустить игру
 > 🇪🇳 README in english available [here](README-EN.md)
 
 ## Как запустить
