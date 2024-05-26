@@ -1,5 +1,5 @@
 > [!NOTE]
-### Перейдите чтоб получить [Бонус](https://t.me/hamster_kombat_boT/start?startapp=kentId316885075) и запустить игру
+### Перейдите чтоб получить [Бонус](https://t.me/hamster_kombat_boT/start?startapp=kentId316885075) и запустите игру
 > 🇪🇳 README in english available [here](README-EN.md)
 
 ## Как запустить
