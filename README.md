@@ -1,5 +1,4 @@
 > [!NOTE]
-> Контакты: [Telegram](https://t.me/evggordadym     )
 > 
 > 🇪🇳 README in english available [here](README-EN.md)
 
