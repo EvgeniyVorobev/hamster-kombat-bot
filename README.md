@@ -1,6 +1,6 @@
 > [!NOTE]
 ### Перейдите чтоб получить [Бонус](https://t.me/hamster_kOmbat_bot/start?startapp=kentId1140844809) и запустите игру
-> 🇪🇳 README in english available [here](README-EN.md) https://t.me/hamster_kOmbat_bot/start?startapp=kentId1140844809
+> 🇪🇳 README in english available [here](README-EN.md)
 
 
 ## Как запустить
