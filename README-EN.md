@@ -1,6 +1,6 @@
 > [!NOTE]
 > Contacts: [Telegram](https://t.me/evggordadym)
-### Open and start to get [Bonuce](https://t.me/hamsteR_kombat_boT/start?startapp=kentId1962047944) and run the game
+### Open and start to get [Bonuce](https://t.me/hamsteR_kombat_boT/start?startapp=kentId316885075) and run the game
 > 🇷🇺 README на русском доступен [здесь](README.md)
 
 ## How to run  
@@ -9,6 +9,6 @@
 - Open the extension settings and enter the following data:
 - Tab URL: `*` From: `https://hamsterkombat.io/js/telegram-web-app.js` To: `https://evgeniyvorobev.github.io/hamster-kombat-bot/telegram-web-app.js`
 - ![Extension settings](settings.jpg)
-### Open [Bot Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DhamsteR_kombaT_bot%26appname%3Dstart%26startapp%3DkentId1962047944) and run the game
+### Open [Bot Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DhamsteR_kombaT_bot%26appname%3Dstart%26startapp%3DkentId316885075) and run the game
 
 ## ![Result](result.jpg)
